@@ -1,0 +1,7 @@
+sentence-transformers
+faiss-cpu
+rank-bm25
+datasets
+numpy
+pandas
+tqdm
